@@ -11,7 +11,7 @@
     <h3>Mailgo links</h3>
     <ul>
       <li>
-        <a href="mailto:matteo@manzinello.dev" target="_blank" rel="noopener"
+        <a href="mailto:info@mailgo.dev" target="_blank" rel="noopener"
           >a mailto</a
         >
       </li>
